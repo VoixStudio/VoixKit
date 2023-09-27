@@ -1,2 +1,3 @@
-# VoixKit
-kit
+# VSKit
+
+Voix Studio Kit
